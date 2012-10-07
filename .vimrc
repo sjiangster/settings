@@ -69,7 +69,7 @@ set wildmenu
 set wildmode=list:longest
 set wildignore=*.swp,*.bak,*.pyc,*.class
 set title                " change the terminal's title
-set laststatus			"	Last window has a status line
+set laststatus=2			"	Last window has a status line
 set cursorline
 set visualbell           " don't beep
 set noerrorbells         " don't beep
